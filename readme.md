@@ -1,0 +1,1 @@
+Personal project repository for [LLM Apps with Langchain Uplimit course](https://uplimit.com/course/llm-apps-with-langchain) 
